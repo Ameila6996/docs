@@ -17,7 +17,8 @@ topics:
   - Receipts
   - User account
 shortTitle: View history & receipts
----
+Credit card number information
+--
 ## Viewing receipts for your personal account
 
 {% data reusables.user_settings.access_settings %}
